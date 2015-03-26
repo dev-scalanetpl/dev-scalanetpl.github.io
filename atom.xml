@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://dev-scalanetpl.github.io/atom.xml" rel="self"/>
   <link href="http://dev-scalanetpl.github.io/"/>
-  <updated>2015-03-25T17:09:03-07:00</updated>
+  <updated>2015-03-25T18:32:37-07:00</updated>
   <id>http://dev-scalanetpl.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Fisrt Post]]></title>
+    <link href="http://dev-scalanetpl.github.io/blog/2015/03/25/fisrt-post/"/>
+    <updated>2015-03-25T17:50:53-07:00</updated>
+    <id>http://dev-scalanetpl.github.io/blog/2015/03/25/fisrt-post</id>
+    <content type="html"><![CDATA[<p>Some text goes here.</p>
+
+<p>It doesn&rsquo;t matter what comes, fresh goes better in life, with Mentos fresh and full of Life! Nothing gets to you, stayin&#8217; fresh, stayin&#8217; cool, with Mentos fresh and full of life! Fresh goes better! Mentos freshness! Fresh goes better with Mentos, fresh and full of life! Mentos! The Freshmaker!</p>
+
+<p>Have you tried Wheaties? They’re whole wheat with all of the bran. Won’t you try Wheaties? For wheat is the best food of man. They’re crispy and crunchy the whole year through, The kiddies never tire of them and neither will you. So just try Wheaties, the best breakfast food in the land!</p>
+
+<p>There were six people who loved to watch television, but they didn&rsquo;t like what they saw. Armed with determination and a strong will to change the course of television, they wrote their own shows, but that wasn&rsquo;t enough, they had to sell them. They went straight to the networks, but the networks were not ready for them. But did that stop them? No. They built their own network and they liked what they saw.</p>
+]]></content>
+  </entry>
   
 </feed>
