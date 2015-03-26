@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://dev-scalanetpl.github.io/sitemap.xml 
